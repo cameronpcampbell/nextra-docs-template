@@ -1,6 +1,5 @@
 {
   "name": "nextra-docs-template",
-  "type": "commonjs",
   "version": "0.0.1",
   "description": "Nextra docs template",
   "scripts": {
